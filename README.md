@@ -1,5 +1,6 @@
-# new_waypoint_collision_avoidance
+# 다개체 최적 충돌회피 궤적 설계
 
+본 과제에서는 기존의 경로점 접근 및 충돌 회피 문제를 최적 경로점 추천 및 충돌 회피 문제로 변형하였다.
 
 $$\begin{aligned}
   {\text{minimize}} \quad & \sum_{k=1}^K \sum_{t=0}^{T_k-1} \|\| {u_t^{(k)}} \|\|^2 + \sum_{k=1}^K \lambda_k \|\| w^{(k)} - \bar{w}^{(k)} \|\|^2 \\
