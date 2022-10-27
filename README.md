@@ -22,9 +22,9 @@ $$\begin{aligned}
 
 4. 종말 시점의 위치 조건
 
-5. Affine approximation한 충돌 회피 조건 ( $\|\| x_t^{(k)} - x_t^{(l)} \|_2 \geq d$ )
+5. 시점 $t_k$ 의 경로점 통과
 
-6. 시점 $t_k$ 의 경로점 통과
+6. Affine approximation한 충돌 회피 조건 ( $\|\| x_t^{(k)} - x_t^{(l)} \|_2 \geq d$ )
 
 를 의미한다.
 
