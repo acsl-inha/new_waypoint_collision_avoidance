@@ -31,3 +31,5 @@ $$\begin{aligned}
 를 의미한다.
 
 충돌 회피 조건이 concave한 형태이므로 문제 해결을 위해 convex-concave procedure를 적용하였으며, 6개의 충돌 시나리오를 이용하여 알고리듬의 성능을 검증하였다.
+
+![scenario1](https://user-images.githubusercontent.com/55905711/198171299-748c3f64-46f9-495d-9186-ae669f5714b2.gif)
